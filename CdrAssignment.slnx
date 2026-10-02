@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CdrProcessor.Tests/CdrProcessor.Tests.csproj" />
+  <Project Path="CdrProcessor/CdrProcessor.csproj" />
+</Solution>
